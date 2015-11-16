@@ -39,8 +39,7 @@ h2 {
 
 h3 {
     font-size: 100%;
-    font-weight: 600;
-    text-transform: uppercase;
+    font-weight: 400;
     letter-spacing: 0.05rem;
     color: black;
 }
@@ -73,7 +72,7 @@ header {
 
     .button.button-primary {
         margin-top: 2rem;
-        background: $LIGHTBLUE;
+        background: $WHITE;
         color: $DARK;
         border-color: $LIGHTBLUE;
         z-index: 999;
@@ -81,7 +80,7 @@ header {
         &:hover,
         &:focus,
         &:active {
-            background: $WHITE;
+            background: $LIGHTBLUE;
             color: $DARK;
             border-color: $LIGHTBLUE;
             opacity: 0.8;
@@ -105,6 +104,7 @@ header {
     margin: 6rem 2rem;
     display: inline;
     padding-top: 1.5em;
+    text-align: center;
 
     h1 {
         color: black;
@@ -153,17 +153,5 @@ footer {
         float: left;
         margin-top: 1rem;
         margin-left: 0.5rem;
-    }
-
-    #conduct {
-        float: right;
-        margin-top: 1rem;
-        margin-right: 2rem;
-    }
-
-    #privacy {
-        float: right;
-        margin-top: 1rem;
-        margin-right: 1rem;
     }
 }

@@ -20,8 +20,7 @@ h2 {
 
 h3 {
   font-size: 100%;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-weight: 400;
   letter-spacing: 0.05rem;
   color: black;
 }
@@ -59,7 +58,7 @@ header h3 {
 
 header .button.button-primary {
   margin-top: 2rem;
-  background: #B0E2FF;
+  background: white;
   color: #000;
   border-color: #B0E2FF;
   z-index: 999;
@@ -68,7 +67,7 @@ header .button.button-primary {
 header .button.button-primary:hover,
 header .button.button-primary:focus,
 header .button.button-primary:active {
-  background: white;
+  background: #B0E2FF;
   color: #000;
   border-color: #B0E2FF;
   opacity: 0.8;
@@ -90,6 +89,7 @@ header .button.button-primary:active {
   margin: 6rem 2rem;
   display: inline;
   padding-top: 1.5em;
+  text-align: center;
 }
 
 #inquiries h1, #faq h1 {
@@ -137,16 +137,4 @@ footer #sponsor {
   float: left;
   margin-top: 1rem;
   margin-left: 0.5rem;
-}
-
-footer #conduct {
-  float: right;
-  margin-top: 1rem;
-  margin-right: 2rem;
-}
-
-footer #privacy {
-  float: right;
-  margin-top: 1rem;
-  margin-right: 1rem;
 }
