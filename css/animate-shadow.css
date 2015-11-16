@@ -1,0 +1,90 @@
+@-webkit-keyframes gradient
+{
+    0%
+    {
+        background-position: 90% 0%;
+    }
+    50%
+    {
+        background-position: 11% 100%;
+    }
+    100%
+    {
+        background-position: 90% 0%;
+    }
+}
+@-moz-keyframes gradient
+{
+    0%
+    {
+        background-position: 90% 0%;
+    }
+    50%
+    {
+        background-position: 11% 100%;
+    }
+    100%
+    {
+        background-position: 90% 0%;
+    }
+}
+@-o-keyframes gradient
+{
+    0%
+    {
+        background-position: 90% 0%;
+    }
+    50%
+    {
+        background-position: 11% 100%;
+    }
+    100%
+    {
+        background-position: 90% 0%;
+    }
+}
+@keyframes gradient
+{
+    0%
+    {
+        background-position: 90% 0%;
+    }
+    50%
+    {
+        background-position: 11% 100%;
+    }
+    100%
+    {
+        background-position: 90% 0%;
+    }
+}
+@-webkit-keyframes shadows-cells
+{
+    25%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax coral, 5vmax -7vmax 12vmax 12vmax skyblue, 10vmax -7vmax 12vmax 12vmax darkviolet, 15vmax -7vmax 12vmax 12vmax gold, 20vmax -7vmax 12vmax 12vmax purple, 75vmax -7vmax 12vmax 12vmax violet, 90vmax -7vmax 12vmax 12vmax teal, 35vmax -7vmax 12vmax 12vmax orangered, 40vmax -7vmax 12vmax 12vmax yellow, 45vmax -7vmax 12vmax 12vmax crimson, 50vmax -7vmax 12vmax 12vmax skyblue, 0vmax 5vmax 12vmax 12vmax yellowgreen, 5vmax 5vmax 12vmax 12vmax orange, 10vmax 5vmax 12vmax 12vmax darkturquoise, 15vmax 5vmax 12vmax 12vmax pink, 20vmax 5vmax 12vmax 12vmax steelblue, 75vmax 5vmax 12vmax 12vmax turquoise, 90vmax 5vmax 12vmax 12vmax coral, 35vmax 5vmax 12vmax 12vmax skyblue, 40vmax 5vmax 12vmax 12vmax darkviolet, 45vmax 5vmax 12vmax 12vmax gold, 50vmax 5vmax 12vmax 12vmax orangered, 10vmax 12vmax 12vmax darkslateblue, 5vmax 10vmax 12vmax 12vmax purple, 10vmax 10vmax 12vmax 12vmax violet, 15vmax 10vmax 12vmax 12vmax teal, 20vmax 10vmax 12vmax 12vmax orangered, 75vmax 10vmax 12vmax 12vmax yellow, 90vmax 10vmax 12vmax 12vmax crimson, 35vmax 10vmax 12vmax 12vmax yellowgreen, 40vmax 10vmax 12vmax 12vmax orange, 45vmax 10vmax 12vmax 12vmax darkturquoise, 50vmax 10vmax 12vmax 12vmax gold, 15vmax 12vmax 12vmax pink, 5vmax 15vmax 12vmax 12vmax steelblue, 10vmax 15vmax 12vmax 12vmax turquoise, 15vmax 15vmax 12vmax 12vmax coral, 20vmax 15vmax 12vmax 12vmax skyblue, 75vmax 15vmax 12vmax 12vmax darkviolet, 90vmax 15vmax 12vmax 12vmax gold, 35vmax 15vmax 12vmax 12vmax darkslateblue, 40vmax 15vmax 12vmax 12vmax purple, 45vmax 15vmax 12vmax 12vmax violet, 50vmax 15vmax 12vmax 12vmax turquoise, 20vmax 12vmax 12vmax teal, 5vmax 20vmax 12vmax 12vmax orangered, 10vmax 20vmax 12vmax 12vmax yellow, 15vmax 20vmax 12vmax 12vmax crimson, 20vmax 20vmax 12vmax 12vmax yellowgreen, 75vmax 20vmax 12vmax 12vmax orange, 90vmax 20vmax 12vmax 12vmax darkturquoise, 35vmax 20vmax 12vmax 12vmax pink, 40vmax 20vmax 12vmax 12vmax steelblue, 45vmax 20vmax 12vmax 12vmax turquoise, 50vmax 0vmax 12vmax 12vmax coral;
+    }
+    45%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax yellowgreen, 5vmax -7vmax 12vmax 12vmax orange, 10vmax -7vmax 12vmax 12vmax darkturquoise, 15vmax -7vmax 12vmax 12vmax pink, 20vmax -7vmax 12vmax 12vmax steelblue, 75vmax -7vmax 12vmax 12vmax turquoise, 90vmax -7vmax 12vmax 12vmax coral, 35vmax -7vmax 12vmax 12vmax skyblue, 40vmax -7vmax 12vmax 12vmax darkviolet, 45vmax -7vmax 12vmax 12vmax gold, 50vmax -7vmax 12vmax 12vmax orange, 0vmax 5vmax 12vmax 12vmax purple, 5vmax 5vmax 12vmax 12vmax violet, 10vmax 5vmax 12vmax 12vmax teal, 15vmax 5vmax 12vmax 12vmax orangered, 20vmax 5vmax 12vmax 12vmax yellow, 75vmax 5vmax 12vmax 12vmax crimson, 90vmax 5vmax 12vmax 12vmax yellowgreen, 35vmax 5vmax 12vmax 12vmax orange, 40vmax 5vmax 12vmax 12vmax darkturquoise, 45vmax 5vmax 12vmax 12vmax pink, 50vmax 5vmax 12vmax 12vmax blue, 10vmax 12vmax 12vmax steelblue, 5vmax 10vmax 12vmax 12vmax turquoise, 10vmax 10vmax 12vmax 12vmax coral, 15vmax 10vmax 12vmax 12vmax skyblue, 20vmax 10vmax 12vmax 12vmax darkviolet, 75vmax 10vmax 12vmax 12vmax gold, 90vmax 10vmax 12vmax 12vmax darkslateblue, 35vmax 10vmax 12vmax 12vmax purple, 40vmax 10vmax 12vmax 12vmax violet, 45vmax 10vmax 12vmax 12vmax teal, 50vmax 10vmax 12vmax 12vmax darkturquoise, 15vmax 12vmax 12vmax orangered, 5vmax 15vmax 12vmax 12vmax yellow, 10vmax 15vmax 12vmax 12vmax crimson, 15vmax 15vmax 12vmax 12vmax yellowgreen, 20vmax 15vmax 12vmax 12vmax orange, 75vmax 15vmax 12vmax 12vmax darkturquoise, 90vmax 15vmax 12vmax 12vmax pink, 35vmax 15vmax 12vmax 12vmax steelblue, 40vmax 15vmax 12vmax 12vmax turquoise, 45vmax 15vmax 12vmax 12vmax coral, 50vmax 15vmax 12vmax 12vmax yellowgreen, 20vmax 12vmax 12vmax skyblue, 5vmax 20vmax 12vmax 12vmax darkviolet, 10vmax 20vmax 12vmax 12vmax gold, 15vmax 20vmax 12vmax 12vmax darkslateblue, 20vmax 20vmax 12vmax 12vmax purple, 75vmax 20vmax 12vmax 12vmax violet, 90vmax 20vmax 12vmax 12vmax teal, 35vmax 20vmax 12vmax 12vmax orangered, 40vmax 20vmax 12vmax 12vmax yellow, 45vmax 20vmax 12vmax 12vmax crimson, 50vmax 0vmax 12vmax 12vmax yellowgreen;
+    }
+    75%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax teal, 5vmax -7vmax 12vmax 12vmax orangered, 10vmax -7vmax 12vmax 12vmax yellow, 15vmax -7vmax 12vmax 12vmax crimson, 20vmax -7vmax 12vmax 12vmax yellowgreen, 75vmax -7vmax 12vmax 12vmax orange, 90vmax -7vmax 12vmax 12vmax darkturquoise, 35vmax -7vmax 12vmax 12vmax pink, 40vmax -7vmax 12vmax 12vmax steelblue, 45vmax -7vmax 12vmax 12vmax turquoise, 50vmax -7vmax 12vmax 12vmax orangered, 0vmax 5vmax 12vmax 12vmax coral, 5vmax 5vmax 12vmax 12vmax skyblue, 10vmax 5vmax 12vmax 12vmax darkviolet, 15vmax 5vmax 12vmax 12vmax gold, 20vmax 5vmax 12vmax 12vmax darkslateblue, 75vmax 5vmax 12vmax 12vmax purple, 90vmax 5vmax 12vmax 12vmax violet, 35vmax 5vmax 12vmax 12vmax teal, 40vmax 5vmax 12vmax 12vmax orangered, 45vmax 5vmax 12vmax 12vmax yellow, 50vmax 5vmax 12vmax 12vmax pink, 10vmax 12vmax 12vmax crimson, 5vmax 10vmax 12vmax 12vmax yellowgreen, 10vmax 10vmax 12vmax 12vmax orange, 15vmax 10vmax 12vmax 12vmax darkturquoise, 20vmax 10vmax 12vmax 12vmax pink, 75vmax 10vmax 12vmax 12vmax steelblue, 90vmax 10vmax 12vmax 12vmax turquoise, 35vmax 10vmax 12vmax 12vmax coral, 40vmax 10vmax 12vmax 12vmax skyblue, 45vmax 10vmax 12vmax 12vmax darkviolet, 50vmax 10vmax 12vmax 12vmax violet, 15vmax 12vmax 12vmax gold, 5vmax 15vmax 12vmax 12vmax darkslateblue, 10vmax 15vmax 12vmax 12vmax purple, 15vmax 15vmax 12vmax 12vmax violet, 20vmax 15vmax 12vmax 12vmax teal, 75vmax 15vmax 12vmax 12vmax orangered, 90vmax 15vmax 12vmax 12vmax yellow, 35vmax 15vmax 12vmax 12vmax crimson, 40vmax 15vmax 12vmax 12vmax yellowgreen, 45vmax 15vmax 12vmax 12vmax orange, 50vmax 15vmax 12vmax 12vmax skyblue, 20vmax 12vmax 12vmax darkturquoise, 5vmax 20vmax 12vmax 12vmax pink, 10vmax 20vmax 12vmax 12vmax steelblue, 15vmax 20vmax 12vmax 12vmax turquoise, 20vmax 20vmax 12vmax 12vmax coral, 75vmax 20vmax 12vmax 12vmax skyblue, 90vmax 20vmax 12vmax 12vmax darkviolet, 35vmax 20vmax 12vmax 12vmax gold, 40vmax 20vmax 12vmax 12vmax darkslateblue, 45vmax 20vmax 12vmax 12vmax purple, 50vmax 0vmax 12vmax 12vmax teal;
+    }
+}
+@keyframes shadows-cells
+{
+    25%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax coral, 5vmax -7vmax 12vmax 12vmax skyblue, 10vmax -7vmax 12vmax 12vmax darkviolet, 15vmax -7vmax 12vmax 12vmax gold, 20vmax -7vmax 12vmax 12vmax purple, 75vmax -7vmax 12vmax 12vmax violet, 90vmax -7vmax 12vmax 12vmax teal, 35vmax -7vmax 12vmax 12vmax orangered, 40vmax -7vmax 12vmax 12vmax yellow, 45vmax -7vmax 12vmax 12vmax crimson, 50vmax -7vmax 3vmax 12vmax, 0vmax 5vmax skyblue 12vmax 12vmax yellowgreen, 5vmax 5vmax 12vmax 12vmax orange, 10vmax 5vmax 12vmax 12vmax darkturquoise, 15vmax 5vmax 12vmax 12vmax pink, 20vmax 5vmax 12vmax 12vmax steelblue, 75vmax 5vmax 12vmax 12vmax turquoise, 90vmax 5vmax 12vmax 12vmax coral, 35vmax 5vmax 12vmax 12vmax skyblue, 40vmax 5vmax 12vmax 12vmax darkviolet, 45vmax 5vmax 12vmax 12vmax gold, 50vmax -7vmax 12vmax 12vmax orangered, 10vmax 12vmax 12vmax darkslateblue, 5vmax 10vmax 12vmax 12vmax purple, 10vmax 10vmax 12vmax 12vmax violet, 15vmax 10vmax 12vmax 12vmax teal, 20vmax 10vmax 12vmax 12vmax orangered, 75vmax 10vmax 12vmax 12vmax yellow, 90vmax 10vmax 12vmax 12vmax crimson, 35vmax 10vmax 12vmax 12vmax yellowgreen, 40vmax 10vmax 12vmax 12vmax orange, 45vmax 10vmax 12vmax 12vmax darkturquoise, 50vmax 3vmax 12vmax 12vmax teal, 0vmax 3vmax 12vmax 12vmax gold, 15vmax 12vmax 12vmax pink, 5vmax 15vmax 12vmax 12vmax steelblue, 10vmax 15vmax 12vmax 12vmax turquoise, 15vmax 15vmax 12vmax 12vmax coral, 20vmax 15vmax 12vmax 12vmax skyblue, 75vmax 15vmax 12vmax 12vmax darkviolet, 90vmax 15vmax 12vmax 12vmax gold, 35vmax 15vmax 12vmax 12vmax darkslateblue, 40vmax 15vmax 12vmax 12vmax purple, 45vmax 15vmax 12vmax 12vmax violet, 50vmax 15vmax 12vmax 12vmax turquoise, 0vmax 20vmax 12vmax 12vmax teal, 5vmax 20vmax 12vmax 12vmax orangered, 10vmax 20vmax 12vmax 12vmax yellow, 15vmax 20vmax 12vmax 12vmax crimson, 20vmax 20vmax 12vmax 12vmax yellowgreen, 75vmax 20vmax 12vmax 12vmax orange, 90vmax 20vmax 12vmax 12vmax darkturquoise, 35vmax 20vmax 12vmax 12vmax pink, 40vmax 20vmax 12vmax 12vmax steelblue, 45vmax 20vmax 12vmax 12vmax turquoise, 50vmax 0vmax 12vmax 12vmax coral;
+    }
+    45%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax yellowgreen, 5vmax -7vmax 12vmax 12vmax orange, 10vmax -7vmax 12vmax 12vmax darkturquoise, 15vmax -7vmax 12vmax 12vmax pink, 20vmax -7vmax 12vmax 12vmax steelblue, 75vmax -7vmax 12vmax 12vmax turquoise, 90vmax -7vmax 12vmax 12vmax coral, 35vmax -7vmax 12vmax 12vmax skyblue, 40vmax -7vmax 12vmax 12vmax darkviolet, 45vmax -7vmax 12vmax 12vmax gold, 50vmax -7vmax 12vmax 12vmax orange, 0vmax 5vmax 12vmax 12vmax purple, 5vmax 5vmax 12vmax 12vmax violet, 10vmax 5vmax 12vmax 12vmax teal, 15vmax 5vmax 12vmax 12vmax orangered, 20vmax 5vmax 12vmax 12vmax yellow, 75vmax 5vmax 12vmax 12vmax crimson, 90vmax 5vmax 12vmax 12vmax yellowgreen, 35vmax 5vmax 12vmax 12vmax orange, 40vmax 5vmax 12vmax 12vmax darkturquoise, 45vmax 5vmax 12vmax 12vmax pink, 50vmax 5vmax 12vmax 12vmax darkviolet, 10vmax 12vmax 12vmax steelblue, 5vmax 10vmax 12vmax 12vmax turquoise, 10vmax 10vmax 12vmax 12vmax coral, 15vmax 10vmax 12vmax 12vmax skyblue, 20vmax 10vmax 12vmax 12vmax darkviolet, 75vmax 10vmax 12vmax 12vmax gold, 90vmax 10vmax 12vmax 12vmax darkslateblue, 35vmax 10vmax 12vmax 12vmax purple, 40vmax 10vmax 12vmax 12vmax violet, 45vmax 10vmax 12vmax 12vmax teal, 50vmax 10vmax 12vmax 12vmax steelblue, 0vmax 3vmax 12vmax 12vmax pink, 15vmax 12vmax 12vmax orangered, 5vmax 15vmax 12vmax 12vmax yellow, 10vmax 15vmax 12vmax 12vmax crimson, 15vmax 15vmax 12vmax 12vmax yellowgreen, 20vmax 15vmax 12vmax 12vmax orange, 75vmax 15vmax 12vmax 12vmax darkturquoise, 90vmax 15vmax 12vmax 12vmax pink, 35vmax 15vmax 12vmax 12vmax steelblue, 40vmax 15vmax 12vmax 12vmax turquoise, 45vmax 15vmax 12vmax 12vmax coral, 50vmax 15vmax 12vmax 12vmax coral, 0vmax 20vmax 12vmax 12vmax skyblue, 5vmax 20vmax 12vmax 12vmax darkviolet, 10vmax 20vmax 12vmax 12vmax gold, 15vmax 20vmax 12vmax 12vmax darkslateblue, 20vmax 20vmax 12vmax 12vmax purple, 75vmax 20vmax 12vmax 12vmax violet, 90vmax 20vmax 12vmax 12vmax teal, 35vmax 20vmax 12vmax 12vmax orangered, 40vmax 20vmax 12vmax 12vmax yellow, 45vmax 20vmax 12vmax 12vmax crimson, 50vmax 0vmax 12vmax 12vmax yellowgreen;
+    }
+    75%
+    {
+        box-shadow: 0vmax -7vmax 12vmax 12vmax teal, 5vmax -7vmax 12vmax 12vmax orangered, 10vmax -7vmax 12vmax 12vmax yellow, 15vmax -7vmax 12vmax 12vmax crimson, 20vmax -7vmax 12vmax 12vmax yellowgreen, 75vmax -7vmax 3vmax 12vmax orange, 90vmax -7vmax 3vmax 12vmax darkturquoise, 35vmax -7vmax 3vmax 12vmax pink, 40vmax -7vmax 3vmax 12vmax steelblue, 45vmax -7vmax 3vmax 12vmax turquoise, 50vmax -7vmax 3vmax 12vmax orangered, 0vmax 5vmax 3vmax 12vmax coral, 5vmax 5vmax 3vmax 12vmax skyblue, 10vmax 5vmax 3vmax 12vmax darkviolet, 15vmax 5vmax 3vmax 12vmax gold, 20vmax 5vmax 3vmax 12vmax darkslateblue, 75vmax 5vmax 3vmax 12vmax purple, 90vmax 5vmax 3vmax 12vmax violet, 35vmax 5vmax 3vmax 12vmax teal, 40vmax 5vmax 3vmax 12vmax orangered, 45vmax 5vmax 3vmax 12vmax yellow, 50vmax 5vmax 3vmax 12vmax steelblue, 10vmax 3vmax 12vmax crimson, 5vmax 10vmax 3vmax 12vmax yellowgreen, 10vmax 10vmax 3vmax 12vmax orange, 15vmax 10vmax 3vmax 12vmax darkturquoise, 20vmax 10vmax 3vmax 12vmax pink, 75vmax 10vmax 3vmax 12vmax steelblue, 90vmax 10vmax 3vmax 12vmax turquoise, 35vmax 10vmax 3vmax 12vmax coral, 40vmax 10vmax 3vmax 12vmax skyblue, 45vmax 10vmax 3vmax 12vmax darkviolet, 50vmax 10vmax 3vmax 12vmax skyblue, 0vmax 3vmax 3vmax 12vmax violet, 15vmax 3vmax 12vmax gold, 5vmax 15vmax 3vmax 12vmax darkslateblue, 10vmax 15vmax 3vmax 12vmax purple, 15vmax 15vmax 3vmax 12vmax violet, 20vmax 15vmax 3vmax 12vmax teal, 75vmax 15vmax 3vmax 12vmax orangered, 90vmax 15vmax 3vmax 12vmax yellow, 35vmax 15vmax 3vmax 12vmax crimson, 40vmax 15vmax 3vmax 12vmax yellowgreen, 45vmax 15vmax 3vmax 12vmax orange, 50vmax 15vmax 3vmax 12vmax orangered, 0vmax 20vmax 3vmax 12vmax darkturquoise, 5vmax 20vmax 3vmax 12vmax pink, 10vmax 20vmax 3vmax 12vmax steelblue, 15vmax 20vmax 3vmax 12vmax turquoise, 20vmax 20vmax 3vmax 12vmax coral, 75vmax 20vmax 3vmax 12vmax skyblue, 90vmax 20vmax 3vmax 12vmax darkviolet, 35vmax 20vmax 3vmax 12vmax gold, 40vmax 20vmax 3vmax 12vmax darkslateblue, 45vmax 20vmax 3vmax 12vmax purple, 50vmax 0vmax 3vmax 12vmax teal;
+    }
+}
