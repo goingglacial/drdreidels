@@ -73,18 +73,17 @@ header {
 
     .button.button-primary {
         margin-top: 2rem;
-        background: $LIGHT;
+        background: $LIGHTBLUE;
         color: $DARK;
-        border-color: $LIGHT;
-        // make z-index high so that img is always in front and clickable
+        border-color: $LIGHTBLUE;
         z-index: 999;
 
         &:hover,
         &:focus,
         &:active {
-            background: $LIGHT;
+            background: $WHITE;
             color: $DARK;
-            border-color: $LIGHT;
+            border-color: $LIGHTBLUE;
             opacity: 0.8;
         }
     }

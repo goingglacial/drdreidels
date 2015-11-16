@@ -59,18 +59,18 @@ header h3 {
 
 header .button.button-primary {
   margin-top: 2rem;
-  background: #F6F9FC;
+  background: #B0E2FF;
   color: #000;
-  border-color: #F6F9FC;
+  border-color: #B0E2FF;
   z-index: 999;
 }
 
 header .button.button-primary:hover,
 header .button.button-primary:focus,
 header .button.button-primary:active {
-  background: #F6F9FC;
+  background: white;
   color: #000;
-  border-color: #F6F9FC;
+  border-color: #B0E2FF;
   opacity: 0.8;
 }
 
