@@ -27,7 +27,7 @@ html, body {
 
 h1 {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 600;
     color: black;
 }
 
@@ -117,6 +117,14 @@ header {
         color: black;
         margin-top: 4rem;
         margin-bottom: 0.5rem;
+    }
+
+    a {
+        color: $WHITE;
+
+        &:hover {
+            color: $DARK;
+        }
     }
 
     .container {

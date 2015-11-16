@@ -8,7 +8,7 @@ html, body {
 
 h1 {
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 600;
   color: black;
 }
 
@@ -103,6 +103,14 @@ header .button.button-primary:active {
   color: black;
   margin-top: 4rem;
   margin-bottom: 0.5rem;
+}
+
+#inquiries a, #faq a {
+  color: white;
+}
+
+#inquiries a:hover, #faq a:hover {
+  color: #000;
 }
 
 #inquiries .container, #faq .container {
