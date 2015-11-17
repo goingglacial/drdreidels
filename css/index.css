@@ -106,11 +106,11 @@ header .button.button-primary:active {
 }
 
 #inquiries a, #faq a {
-  color: white;
+  color: #000;
 }
 
 #inquiries a:hover, #faq a:hover {
-  color: #000;
+  color: white;
 }
 
 #inquiries .container, #faq .container {
@@ -142,7 +142,5 @@ footer img {
 }
 
 footer #sponsor {
-  float: left;
-  margin-top: 1rem;
-  margin-left: 0.5rem;
+  padding-top: 1rem;
 }
