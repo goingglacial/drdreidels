@@ -1,4 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900);
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
 html, body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-size: 16px;
@@ -23,6 +32,10 @@ h3 {
   font-weight: 400;
   letter-spacing: 0.05rem;
   color: black;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .light {
@@ -60,7 +73,7 @@ header .button.button-primary {
   margin-top: 2rem;
   background: white;
   color: #000;
-  border-color: #B0E2FF;
+  border: 1px solid #B0E2FF;
   z-index: 999;
 }
 
@@ -71,6 +84,10 @@ header .button.button-primary:active {
   color: #000;
   border-color: #B0E2FF;
   opacity: 0.8;
+}
+
+header .button.button-primary a {
+  color: #000;
 }
 
 .logo {

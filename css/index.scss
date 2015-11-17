@@ -17,6 +17,15 @@ $GREEN: #52f562;
     transition: $transition-property $transition-time $method;
 }
 
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box; 
+}
+
 // TYPOGRAPHY
 html, body {
     font-family: "Source Sans Pro", Arial, sans-serif;
@@ -42,6 +51,10 @@ h3 {
     font-weight: 400;
     letter-spacing: 0.05rem;
     color: black;
+}
+
+.uppercase {
+    text-transform: uppercase;
 }
 
 .light {
@@ -74,7 +87,7 @@ header {
         margin-top: 2rem;
         background: $WHITE;
         color: $DARK;
-        border-color: $LIGHTBLUE;
+        border: 1px solid $LIGHTBLUE;
         z-index: 999;
 
         &:hover,
@@ -84,6 +97,10 @@ header {
             color: $DARK;
             border-color: $LIGHTBLUE;
             opacity: 0.8;
+        }
+
+        a {
+            color: $DARK;
         }
     }
 }
